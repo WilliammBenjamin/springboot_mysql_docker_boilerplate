@@ -1,6 +1,6 @@
-# Dockerized Spring Boot App with MySQL
+# Dockerized Maven Spring Boot App with MySQL
 
-This is a boilerplate for a Spring Boot application with MySQL database, using Docker for containerization.
+This is a boilerplate for a maven Spring Boot application with MySQL database, using Docker for containerization.
 
 ## Prerequisites
 Make sure you have Docker installed on your machine. If not, you can download it [here](https://www.docker.com/products/docker-desktop).
